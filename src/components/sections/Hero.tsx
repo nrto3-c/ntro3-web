@@ -16,7 +16,7 @@ const containerVariants = {
 
 const itemVariants = {
   hidden: { opacity: 0, y: 28 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.55, ease: [0.22, 1, 0.36, 1] } },
+  show: { opacity: 1, y: 0, transition: { duration: 0.55, ease: [0.22, 1, 0.36, 1] as [number, number, number, number] } },
 }
 
 function GeometricBackground() {
@@ -177,7 +177,7 @@ export function Hero() {
             {/* Left column — shifts left when right appears via layout animation */}
             <motion.div
               layout="position"
-              transition={{ duration: 0.75, ease: [0.22, 1, 0.36, 1] }}
+              transition={{ duration: 0.75, ease: [0.22, 1, 0.36, 1] as [number, number, number, number] }}
               className="flex-1 min-w-0"
             >
               <motion.div variants={containerVariants} initial="hidden" animate="show">
@@ -247,7 +247,7 @@ export function Hero() {
                   className="hidden lg:block flex-1 min-w-0"
                   initial={{ opacity: 0, x: 80 }}
                   animate={{ opacity: 1, x: 0 }}
-                  transition={{ duration: 0.75, ease: [0.22, 1, 0.36, 1] }}
+                  transition={{ duration: 0.75, ease: [0.22, 1, 0.36, 1] as [number, number, number, number] }}
                 >
                   <BrowserMockup />
                 </motion.div>

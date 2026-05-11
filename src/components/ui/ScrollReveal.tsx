@@ -33,7 +33,7 @@ export function ScrollReveal({
       ref={ref}
       initial={initial}
       animate={isInView ? { opacity: 1, y: 0, x: 0, scale: 1 } : initial}
-      transition={{ duration: 0.6, delay, ease: [0.22, 1, 0.36, 1] }}
+      transition={{ duration: 0.6, delay, ease: [0.22, 1, 0.36, 1] as [number, number, number, number] }}
       className={className}
     >
       {children}
