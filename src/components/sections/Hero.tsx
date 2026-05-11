@@ -19,7 +19,7 @@ export function Hero() {
           transition={{ duration: 0.5 }}
           className="text-purple-600 font-semibold text-lg mb-4"
         >
-          Hi, I'm Your Name
+          Hi, I&apos;m Your Name
         </motion.p>
 
         <motion.h1

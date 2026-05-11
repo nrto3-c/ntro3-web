@@ -4,10 +4,10 @@ export function Contact() {
   return (
     <section id="contact" className="py-20 px-4">
       <div className="max-w-2xl mx-auto text-center">
-        <h2 className="text-4xl font-black text-gray-900 mb-4">Let's Work Together</h2>
+        <h2 className="text-4xl font-black text-gray-900 mb-4">Let&apos;s Work Together</h2>
         <p className="text-gray-600 text-lg mb-10 leading-relaxed">
-          Have a project in mind? I'd love to hear about it.
-          Send me an email and let's talk.
+          Have a project in mind? I&apos;d love to hear about it.
+          Send me an email and let&apos;s talk.
         </p>
         <a
           href={`mailto:${email}`}
