@@ -8,7 +8,7 @@ export function Navbar() {
           href="/"
           className="text-xl font-black text-gray-900 hover:text-purple-600 transition-colors"
         >
-          Your Name
+          Nrto3-WEB
         </Link>
         <div className="flex items-center gap-6">
           <Link

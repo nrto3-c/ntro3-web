@@ -1,5 +1,5 @@
 export function Contact() {
-  const email = 'your@email.com'
+  const email = 'nrto3.c@gmail.com'
 
   return (
     <section id="contact" className="py-20 px-4">
