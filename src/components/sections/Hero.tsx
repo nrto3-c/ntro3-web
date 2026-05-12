@@ -193,8 +193,6 @@ export function Hero() {
                   className="text-6xl md:text-7xl text-gray-900 mb-6 leading-tight"
                   style={{ fontFamily: "'Noto Sans TC', sans-serif", fontWeight: 550 }}
                 >
-                  鑄風成塔
-                  <br />
                   <span className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
                     把想像化為真實
                   </span>

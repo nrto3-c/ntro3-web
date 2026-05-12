@@ -10,15 +10,10 @@ export function AboutMe() {
   return (
     <section id="about" className="py-20 px-4 bg-gray-50">
       <div className="max-w-3xl mx-auto text-center">
-        <h2 className="text-4xl font-black text-gray-900 mb-6">About Me</h2>
-        <p className="text-gray-600 text-lg leading-relaxed mb-4">
-          I&apos;m a frontend developer with a passion for building clean, performant,
-          and visually engaging web experiences. I work closely with clients to
-          understand their goals and turn ideas into polished digital products.
-        </p>
+        <h2 className="text-4xl font-black text-gray-900 mb-6">關於我</h2>
         <p className="text-gray-600 text-lg leading-relaxed mb-10">
-          Whether it&apos;s a marketing site, a web app, or a complex dashboard — I bring
-          attention to detail and user-first thinking to every project.
+          Digital Designer，專注於打造視覺精緻、體驗流暢的網站。<br />
+          從品牌官網到網頁應用，習慣從使用者角度出發，把客戶的想法做成真正好用的產品。
         </p>
         <div className="flex flex-wrap justify-center gap-2">
           {SKILLS.map((skill) => (
