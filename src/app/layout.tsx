@@ -7,8 +7,8 @@ import { Footer } from '@/components/layout/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Your Name — Frontend Developer',
-  description: 'Portfolio showcasing web projects and frontend expertise.',
+  title: 'Nrto3 — Digital Designer',
+  description: '從品牌官網到網頁應用，習慣從使用者角度出發，把客戶的想法做成真正好用的產品。',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
