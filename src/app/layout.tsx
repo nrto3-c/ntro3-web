@@ -21,7 +21,7 @@ const tc = Noto_Sans_TC({
 })
 
 export const metadata: Metadata = {
-  title: 'NONO.DEV',
+  title: 'NRTO3.DEV',
   description: 'iOS · macOS · Web 應用開發。從 0 到 1，從原型到上架。',
 }
 
