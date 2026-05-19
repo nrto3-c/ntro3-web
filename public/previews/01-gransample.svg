@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 548" width="600" height="548" preserveAspectRatio="xMidYMid slice" role="img" aria-label="GranSample cover">
+  <defs>
+    <pattern id="m0w" patternUnits="userSpaceOnUse" width="14" height="14">
+      <line x1="0" y1="14" x2="14" y2="0" stroke="#FF5A1F" stroke-width="1.2" opacity="0.4"></line>
+    </pattern>
+  </defs>
+  <rect width="600" height="548" fill="url(#m0w)"></rect>
+  <g transform="translate(100, 246)">
+    
+    <rect x="0" y="-20" width="4" height="40" fill="#FF5A1F"></rect>
+    <rect x="10" y="-30" width="4" height="60" fill="#FF5A1F"></rect>
+    <rect x="20" y="-48" width="4" height="96" fill="#FF5A1F"></rect>
+    <rect x="30" y="-60" width="4" height="120" fill="#FF5A1F"></rect>
+    <rect x="40" y="-66" width="4" height="132" fill="#FF5A1F"></rect>
+    <rect x="50" y="-58" width="4" height="116" fill="#FF5A1F"></rect>
+    <rect x="60" y="-42" width="4" height="84" fill="#FF5A1F"></rect>
+    <rect x="70" y="-26" width="4" height="52" fill="#FF5A1F"></rect>
+    <rect x="80" y="-18" width="4" height="36" fill="#FF5A1F"></rect>
+    <rect x="90" y="-30" width="4" height="60" fill="#FF5A1F"></rect>
+    <rect x="100" y="-52" width="4" height="104" fill="#FF5A1F"></rect>
+    <rect x="110" y="-66" width="4" height="132" fill="#FF5A1F"></rect>
+    <rect x="120" y="-72" width="4" height="144" fill="#FF5A1F"></rect>
+    <rect x="130" y="-64" width="4" height="128" fill="#FF5A1F"></rect>
+    <rect x="140" y="-46" width="4" height="92" fill="#FF5A1F"></rect>
+    <rect x="150" y="-28" width="4" height="56" fill="#FF5A1F"></rect>
+    <rect x="160" y="-20" width="4" height="40" fill="#FF5A1F"></rect>
+    <rect x="170" y="-34" width="4" height="68" fill="#FF5A1F"></rect>
+    <rect x="180" y="-54" width="4" height="108" fill="#FF5A1F"></rect>
+    <rect x="190" y="-68" width="4" height="136" fill="#FF5A1F"></rect>
+    <rect x="200" y="-74" width="4" height="148" fill="#FF5A1F"></rect>
+    <rect x="210" y="-64" width="4" height="128" fill="#FF5A1F"></rect>
+    <rect x="220" y="-44" width="4" height="88" fill="#FF5A1F"></rect>
+    <rect x="230" y="-24" width="4" height="48" fill="#FF5A1F"></rect>
+    <rect x="240" y="-18" width="4" height="36" fill="#FF5A1F"></rect>
+    <rect x="250" y="-30" width="4" height="60" fill="#FF5A1F"></rect>
+    <rect x="260" y="-52" width="4" height="104" fill="#FF5A1F"></rect>
+    <rect x="270" y="-68" width="4" height="136" fill="#FF5A1F"></rect>
+    <rect x="280" y="-72" width="4" height="144" fill="#FF5A1F"></rect>
+    <rect x="290" y="-58" width="4" height="116" fill="#FF5A1F"></rect>
+    <rect x="300" y="-40" width="4" height="80" fill="#FF5A1F"></rect>
+    <rect x="310" y="-22" width="4" height="44" fill="#FF5A1F"></rect>
+    <rect x="320" y="-20" width="4" height="40" fill="#FF5A1F"></rect>
+    <rect x="330" y="-30" width="4" height="60" fill="#FF5A1F"></rect>
+    <rect x="340" y="-48" width="4" height="96" fill="#FF5A1F"></rect>
+    <rect x="350" y="-62" width="4" height="124" fill="#FF5A1F"></rect>
+    <rect x="360" y="-66" width="4" height="132" fill="#FF5A1F"></rect>
+    <rect x="370" y="-56" width="4" height="112" fill="#FF5A1F"></rect>
+    <rect x="380" y="-36" width="4" height="72" fill="#FF5A1F"></rect>
+    <rect x="390" y="-22" width="4" height="44" fill="#FF5A1F"></rect>
+  </g>
+</svg>

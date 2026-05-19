@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 548" width="600" height="548" preserveAspectRatio="xMidYMid slice" role="img" aria-label="SRTWhisper cover">
+  <defs>
+    <pattern id="m3w" patternUnits="userSpaceOnUse" width="10" height="10">
+      <rect width="10" height="10" fill="none"></rect>
+      <circle cx="5" cy="5" r="0.8" fill="#FF5A1F" opacity="0.45"></circle>
+    </pattern>
+  </defs>
+  <rect width="600" height="548" fill="url(#m3w)"></rect>
+  <g transform="translate(80, 164)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="12" fill="#FF5A1F" opacity="0.7">00:00.000 → 00:02.000</text>
+      <rect x="0" y="8" width="120" height="22" fill="#FF5A1F" opacity="0.92"></rect>
+    </g>
+    <g transform="translate(0, 48)">
+      <text x="0" y="0" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="12" fill="#FF5A1F" opacity="0.7">00:03.100 → 00:05.100</text>
+      <rect x="0" y="8" width="180" height="22" fill="#FF5A1F" opacity="0.80"></rect>
+    </g>
+    <g transform="translate(0, 96)">
+      <text x="0" y="0" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="12" fill="#FF5A1F" opacity="0.7">00:06.200 → 00:08.200</text>
+      <rect x="0" y="8" width="240" height="22" fill="#FF5A1F" opacity="0.68"></rect>
+    </g>
+    <g transform="translate(0, 144)">
+      <text x="0" y="0" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="12" fill="#FF5A1F" opacity="0.7">00:09.300 → 00:11.300</text>
+      <rect x="0" y="8" width="300" height="22" fill="#FF5A1F" opacity="0.56"></rect>
+    </g>
+    <g transform="translate(0, 192)">
+      <text x="0" y="0" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="12" fill="#FF5A1F" opacity="0.7">00:12.400 → 00:14.400</text>
+      <rect x="0" y="8" width="360" height="22" fill="#FF5A1F" opacity="0.44"></rect>
+    </g>
+  </g>
+</svg>

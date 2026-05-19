@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 548" width="600" height="548" preserveAspectRatio="xMidYMid slice" role="img" aria-label="CacaLabs cover">
+  <defs>
+    <pattern id="m1w" patternUnits="userSpaceOnUse" width="16" height="16">
+      <circle cx="8" cy="8" r="1.8" fill="#FF5A1F" opacity="0.5"></circle>
+    </pattern>
+  </defs>
+  <rect width="600" height="548" fill="url(#m1w)"></rect>
+  <g transform="translate(120, 154)">
+    
+    <g>
+      <rect x="0" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="40" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="80" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="120" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="160" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="200" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="240" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="280" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="320" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+    </g>
+    <g transform="translate(0, 40)">
+      <rect x="0" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="40" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="80" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="120" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="160" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="200" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="240" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="280" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="320" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+    </g>
+    <g transform="translate(0, 80)">
+      <rect x="0" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="40" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="80" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="120" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="160" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="200" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="240" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="280" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="320" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+    </g>
+    <g transform="translate(0, 120)">
+      <rect x="0" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="40" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="80" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="120" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="160" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="200" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="240" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="280" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="320" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+    </g>
+    <g transform="translate(0, 160)">
+      <rect x="0" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="40" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="80" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="120" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="160" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="200" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="240" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="280" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="320" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+    </g>
+    <g transform="translate(0, 200)">
+      <rect x="0" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="40" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="80" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="120" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="160" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="200" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="240" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="280" y="0" width="36" height="36" fill="#FF5A1F" stroke="#FF5A1F" stroke-width="1.4"></rect>
+      <rect x="320" y="0" width="36" height="36" fill="none" stroke="#FF5A1F" stroke-width="1.4"></rect>
+    </g>
+  </g>
+</svg>

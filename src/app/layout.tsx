@@ -1,31 +1,35 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
+import { Inter, JetBrains_Mono, Noto_Sans_TC } from 'next/font/google'
 import './globals.css'
-import { Navbar } from '@/components/layout/Navbar'
-import { Footer } from '@/components/layout/Footer'
 
-const inter = Inter({ subsets: ['latin'] })
+const inter = Inter({
+  subsets: ['latin'],
+  variable: '--font-inter',
+  weight: ['400', '500', '600', '700', '800'],
+})
+
+const mono = JetBrains_Mono({
+  subsets: ['latin'],
+  variable: '--font-mono',
+  weight: ['400', '500', '600'],
+})
+
+const tc = Noto_Sans_TC({
+  subsets: ['latin'],
+  variable: '--font-tc',
+  weight: ['400', '500', '600'],
+})
 
 export const metadata: Metadata = {
-  title: 'Nrto3 — Digital Designer',
-  description: '從品牌官網到網頁應用，習慣從使用者角度出發，把客戶的想法做成真正好用的產品。',
+  title: 'NONO.DEV',
+  description: 'iOS · macOS · Web 應用開發。從 0 到 1，從原型到上架。',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="zh-TW">
-      <head>
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap"
-          rel="stylesheet"
-        />
-      </head>
-      <body className={`${inter.className} bg-white text-gray-900 antialiased`}>
-        <Navbar />
-        <main className="pt-16">{children}</main>
-        <Footer />
+      <body className={`${inter.variable} ${mono.variable} ${tc.variable} antialiased`}>
+        {children}
       </body>
     </html>
   )
